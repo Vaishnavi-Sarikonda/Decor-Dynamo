@@ -1,0 +1,9 @@
+1. Front End
+Developed the front end using Angular framework, which has a user-friendly interface that helps customers in interaction with the website.
+2. Back End
+Developed the back end using Java with Spring Boot, which is like the heart of the application that helps in handling the business logics, data processing and also helps in communication with the database.
+3. Web Server
+Used Apache Tomcat to host and also serve the web application to users over the internet.
+4. Database
+Used MySQL to store and manage various data that is related to products, customers, orders, wishlist and other
+These are the technical specifications that I have used developing this project.
